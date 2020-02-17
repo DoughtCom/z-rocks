@@ -2,6 +2,8 @@
 
 > A photo copier electronjs app made specifically for the RPi (4) to copy files off of an SD Card onto a backup drive.
 
+<img width="500" src="/docs/Screenshot-V.01.jpg" alt="electron-vue">
+
 # z-rocks Notes
 
 #### Dev Installation and Deployment
