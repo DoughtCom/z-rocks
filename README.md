@@ -29,6 +29,8 @@
 #### 3D Model
 - [z-rocks case viewable model](https://myhub.autodesk360.com/ue29781b4/g/shares/SH919a0QTf3c32634dcff0055839dc1213d1?viewState=NoIgbgDAdAjCA0IDeAdEAXAngBwKZoC40ARXAZwEsBzAOzXjQEMyzd1C0YATCADgE4ATABYIAWgBmMQRLHCJAVkZiARv14LJAdggA2RluExGjYcLQBfEAF0gA)
 
+- [z-rocks case download](https://www.thingiverse.com/thing:4167374)
+
 ---
 
 # Notes from electron-vue
