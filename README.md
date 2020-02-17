@@ -2,7 +2,9 @@
 
 > A photo copier electronjs app made specifically for the RPi (4) to copy files off of an SD Card onto a backup drive.
 
-<img width="500" src="/docs/Screenshot-V.01.png" alt="electron-vue">
+The logo was inspired by my favorite childhood radio station [99.1 Z-Rock](https://youtu.be/XFLIf1OFHXM?t=120) and the name works as a pun to the company that invented the mouse that made photo copiers.
+
+<img width="490" src="/docs/Screenshot-V.01.png" alt="electron-vue">
 
 # z-rocks Notes
 
